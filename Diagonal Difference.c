@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n;
+    int n,a;
     scanf("%d",&n);
 
     int matrix[n][n],sum1=0,sum2=0,i,j;
